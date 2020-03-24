@@ -1,8 +1,6 @@
 /*
-* GccApplication1.c
-*
 * Created: 3/23/2020 7:28:50 PM
-* Author : Braynyac
+* Authors : Bryan Garcia and Eduarda Farias
 */
 
 #include <avr/io.h>
